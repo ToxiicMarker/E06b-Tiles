@@ -1,4 +1,9 @@
 # E06b-Tiles
+With this excercise I tried to import new tiles, but apparently python araced deos not like tile sheets and does not support importing tile sheets. This was saddening to me, but I still made a nice little level for my alien guy to go through. This was a good opportunity to look at how to implement a jumping mechanic and keyboard inputs for a plaforming game. It was also interesting playing with the spawn point of the MC and the dimentions of the map. 
+
+
+
+
 Playing with the Tiled Map Editor
 
 This is an opportunity for you to experiment with using the Tiled Map Editor to build a 2D platformer.
